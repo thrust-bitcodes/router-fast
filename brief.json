@@ -1,0 +1,8 @@
+{
+  "description": "Fast Router module",
+  "name": "router-fast",
+  "path": "dist",
+  "version": "0.1.1",
+  "author": "Nery Jr",
+  "dependencies": []
+}
